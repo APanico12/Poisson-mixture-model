@@ -22,7 +22,7 @@ The parameters to estimate are $$\( \theta = (\alpha, \beta, \mu, \lambda) \)$$.
 
 The likelihood function is given by:
 
-$$\L(\theta|n_0,...,n_{16}) \propto \prod_{i=0}^{16} \frac{(\pi_i(\theta))^{n_i}}{i!}$$
+$$L(\theta|n_0,...,n_{16}) \propto \prod_{i=0}^{16} \frac{(\pi_i(\theta))^{n_i}}{i!}$$
 
 
 Where $$\pi_i(\theta) $$ is defined as:
