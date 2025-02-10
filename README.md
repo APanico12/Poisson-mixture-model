@@ -55,7 +55,7 @@ The total number of respondents is \( N = 1500 \).
 
 2. **Implement the EM algorithm using the given dataset. How did you assess convergence? How many iterations were required for convergence?**
 
-   - Implement the **Expectation-Maximization (EM)** algorithm to estimate the parameters \( \alpha \), \( \beta \), \( \mu \), and \( \lambda \) using the provided data.
+   - Implement the **Expectation-Maximization (EM)** algorithm to estimate the parameters  $\alpha$, $\beta$, $\mu$, and $\lambda$ using the provided data.
    - Describe how convergence was assessed (e.g., by monitoring the log-likelihood or the parameter estimates).
    - Report how many iterations were required for convergence.
 
@@ -70,7 +70,7 @@ The total number of respondents is \( N = 1500 \).
 ## Requirements
 
 - Python 3.x
-- Libraries: `numpy`, `matplotlib`, `scipy`
+- Libraries: `numpy`, `matplotlib`, `scipy`,'pandas','seaborn'
 - Knowledge of the **Expectation-Maximization (EM)** algorithm and **Poisson mixture models**.
 
 To install the required libraries, you can use the following command:
